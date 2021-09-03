@@ -12,7 +12,7 @@
 4. Can view Price Breakup of Car
 
 ## SWOT Analysis
-
+![](https://github.com/barathjk/MiniCarwale/blob/main/5_ImagesandVideos/MiniCarwale%20SWOT.jpg)
 
 ## 4W's and 1 H's
 
