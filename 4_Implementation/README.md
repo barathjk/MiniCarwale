@@ -21,6 +21,8 @@ pip install pytest
 ```
 1. Install pytest package and run `pytest -v .` for testing all testcases
 
+![](https://github.com/barathjk/MiniCarwale/blob/main/5_ImagesandVideos/Pytest.jpeg)
+
 ## To run pylint
 ```
 pip install pylint
@@ -28,6 +30,7 @@ pip install pylint
 1. Install pylint package and run `pytest main.py` for main file
 2. To run pylint for all .py files go back to parent directory `cd ..` and run `pylint cd 4_implementation`
 
+![](https://github.com/barathjk/MiniCarwale/blob/main/5_ImagesandVideos/Pylint%20Score%20for%20all%20py%20files.jpeg)
 ## Advanced Guide
 - `carclass.py` - Contains Hierarchical Inheritance
 - `cars.py`- Choose between cars
