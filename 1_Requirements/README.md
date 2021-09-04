@@ -49,6 +49,8 @@
 | HR05 | Detailed view about Hyundai cars | Implemented | 
 | HR06 | Performing Equated Monthly Instalment | Implemented | 
 | HR07 | Performing Price Breakup | Implemented | 
+| HR08 | Get Login details - REGEX | Implemented |
+| HR09 | Storing data in text file | Implemented | 
 
 
 ### Low level Requirements:
@@ -71,5 +73,7 @@
 | LR15 | Technical Specifications of Verna | HR05 | Implemented  |
 | LR16 | Inputing Principal amount, Rate and time | HR06 | Implemented  |
 | LR17 | Calculating specific amount for Ex-showroom price, RTO, Insurance and Fastag  | HR07 | Implemented  |
+| LR18 | Inputing consumer Login details   | HR08 | Implemented  |
+| LR19 | Inputing Login details and stored in text file  | HR09 | Implemented  |
 
 
