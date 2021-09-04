@@ -16,8 +16,9 @@
 
 ## Badges
 
-Build | Code Quality | Git Inspector |
-|---------|--------|------------|
+- Code Inspector
+
+   ![](https://www.code-inspector.com/project/27310/status/svg) 
 
 ## Running the program 
 Head to the [Implementation](https://github.com/barathjk/MiniCarwale/tree/main/4_Implementation) page to learn more about MiniCarwale
